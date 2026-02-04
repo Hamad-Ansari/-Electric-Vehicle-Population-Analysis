@@ -105,8 +105,10 @@ Key Insights:
 ✅ **Forecast**: +50K new EVs by 2027 – infrastructure crisis ahead?
 
 Built with GeoPandas, Folium, StackingRegressor (XGB+LGBM+RF). Perfect for policy makers & energy pros!
-🔗Dataset: (https://www.kaggle.com/datasets/hammadansari7/electric-vehicle-population)
-🔗 Dive in & upvote: [https://www.kaggle.com/code/hammadansari7/electric-vehicle-population-analysis]
+[🔗Dataset](https://www.kaggle.com/datasets/hammadansari7/electric-vehicle-population)
+<img width="1280" height="1280" alt="a_🚗⚡_Electric_Vehicle" src="https://github.com/user-attachments/assets/a6e591f3-ded2-4fc0-abfd-1b1efb7e9fe8" />
+
+[🔗 Dive in & upvote](https://www.kaggle.com/code/hammadansari7/electric-vehicle-population-analysis)
 
 What’s YOUR take on EV adoption? Rural lag or tech hype?
 
